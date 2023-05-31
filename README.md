@@ -6,8 +6,8 @@ Este proyecto es un dashboard que consume una API  de películas. Es dinámico, 
 ## Capturas de pantalla
 Aquí se muestran algunas capturas del proyecto:
 
-![Captura de pantalla 1](captura1.jpg)
-![Captura de pantalla 2](captura2.png)
+![Captura de pantalla 1](/src/assets/images/capturas/captura1.jpg)
+![Captura de pantalla 2](/src/assets/images/capturas/captura2.jpg)
 
 ## Tecnologías utilizadas
 - Node.Js
